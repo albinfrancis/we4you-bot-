@@ -1,12 +1,12 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=C:\flutter
-FLUTTER_APPLICATION_PATH=C:\Users\ASUS\Downloads\chatbot_dialogflow-master\chatbot_dialogflow-master
-FLUTTER_TARGET=lib\main.dart
+FLUTTER_ROOT=/Users/disciple/Softwares/flutter
+FLUTTER_APPLICATION_PATH=/Users/disciple/Projects/we4you-bot-
+FLUTTER_TARGET=/Users/disciple/Projects/we4you-bot-/lib/main.dart
 FLUTTER_BUILD_DIR=build
-SYMROOT=${SOURCE_ROOT}/../build\ios
+SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
 DART_OBFUSCATION=false
-TRACK_WIDGET_CREATION=false
+TRACK_WIDGET_CREATION=true
 TREE_SHAKE_ICONS=false
-PACKAGE_CONFIG=.packages
+PACKAGE_CONFIG=/Users/disciple/Projects/we4you-bot-/.dart_tool/package_config.json

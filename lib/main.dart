@@ -17,7 +17,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   void response(query) async {
     AuthGoogle authGoogle = await AuthGoogle(
-            fileJson: "assets/we4you-312516-c986eb16f6b8.json")
+            fileJson: "assets/we4you-kdqd-cb1d13192d75.json")
         .build();
     Dialogflow dialogflow =
         Dialogflow(authGoogle: authGoogle, language: Language.english);
